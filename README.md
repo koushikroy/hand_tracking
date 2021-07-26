@@ -1,4 +1,4 @@
-# hand_tracking
+# Keypress Simulator/ Presentation Controller Using Hand Tracking
 
 I made a project where I track and count the fingers of the hand and based on the data I simulated keypress. 
 
